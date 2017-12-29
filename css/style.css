@@ -1,0 +1,39 @@
+
+body {
+  padding-top: 64px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 80px;
+  }
+}
+.footer {min-width:992px;
+padding-top:56px }
+
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+
+
+
+.card {
+  height: 100%;
+}
+
+#manager:hover {
+    background-image: url('photos/managerhover.png');}
+
+    .demo { position:relative; top:-120px; }
+		.loupe { background-color:#555; background:rgba(0, 0, 0, 0.25); border:5px solid rgba(0, 0, 0, 0); cursor:url(blank.png), url(blank.cur), none; }
+	
